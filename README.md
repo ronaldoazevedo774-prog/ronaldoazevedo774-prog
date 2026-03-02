@@ -1,12 +1,6 @@
-<h1 align="center">Ronald Azevedo</h1>
+<h1 align="center">Ronald Cayron</h1>
 <p align="center">
   Desenvolvedor em formação | Foco em Desenvolvimento Web e Full Stack
-</p>
-
-<p align="center">
-  <a href="https://github.com/ronaldoazevedo774-prog">
-    <img src="https://komarev.com/ghzzzzzzpvc/?username=ronaldoazevedo774-prog&label=Visualizações&color=blue&style=flat" alt="visualizações"/>
-  </a>
 </p>
 
 ---
@@ -42,7 +36,7 @@ Tenho interesse especial em:
 
 ## 📌 Projetos Relevantes
 
-📂  **[Projeto Android](https://github.com/ronaldoazevedo774-prog/html-css)**  
+📂  **[Projeto Android](https://ronaldoazevedo774-prog.github.io/html-css/exerc%C3%ADcios/M%C3%B3dulo%202/android)**  
 
 Desenvolvimento de uma página web utilizando HTML e CSS, com foco em:
 - Estrutura semântica
@@ -52,7 +46,7 @@ Desenvolvimento de uma página web utilizando HTML e CSS, com foco em:
 
 
 
-📂  **[Projeto Cordel](https://github.com/ronaldoazevedo774-prog/html-css)**  
+📂  **[Projeto Cordel](https://share.google/X385iP0ilQ3I0cnkr)**  
 
 Desenvolvimento de uma página web utilizando HTML e CSS, com foco em:
 - Estrutura semântica
@@ -64,8 +58,8 @@ Desenvolvimento de uma página web utilizando HTML e CSS, com foco em:
 
 ## 📫 Contato
 
-- LinkedIn: https://www.linkedin.com/in/ronald-cayron-4378433a8?utm_source=share_via&utm_content=profile&utm_medium=member_android
-- Email: ronaldcayron1@gmail.com
+- **[LinkedIn] https://www.linkedin.com/in/ronald-cayron-4378433a8?utm_source=share_via&utm_content=profile&utm_medium=member_android**
+- **[Email] ronaldcayron1@gmail.com**
 
 ---
 
