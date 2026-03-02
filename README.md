@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://github.com/ronaldoazevedo774-prog">
-    <img src="https://komarev.com/ghpvc/?username=ronaldoazevedo774-prog&label=Visualizações&color=blue&style=flat" alt="visualizações"/>
+    <img src="https://komarev.com/ghzzzzzzpvc/?username=ronaldoazevedo774-prog&label=Visualizações&color=blue&style=flat" alt="visualizações"/>
   </a>
 </p>
 
@@ -59,15 +59,6 @@ Desenvolvimento de uma página web utilizando HTML e CSS, com foco em:
 - Responsividade
 - Organização de código
 - Boas práticas de layout
-
----
-
-## 📊 Estatísticas
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=ronaldoazevedo774-prog&show_icons=true">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronaldoazevedo774-prog&layout=compact">
-</p>
 
 ---
 
