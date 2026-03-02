@@ -58,8 +58,8 @@ Desenvolvimento de uma página web utilizando HTML e CSS, com foco em:
 
 ## 📫 Contato
 
-- **[LinkedIn] https://www.linkedin.com/in/ronald-cayron-4378433a8?utm_source=share_via&utm_content=profile&utm_medium=member_android**
-- **[Email] ronaldcayron1@gmail.com**
+- **[LinkedIn](https://www.linkedin.com/in/ronald-cayron-4378433a8?utm_source=share_via&utm_content=profile&utm_medium=member_android)**
+- **[Email](ronaldcayron1@gmail.com)**
 
 ---
 
