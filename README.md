@@ -1,4 +1,4 @@
-<h1 align="center">Ronald Cayron</h1>
+<h1 align="center">Olá, sou Ronald Cayron👋</h1>
 <p align="center">
   Desenvolvedor em formação | Foco em Desenvolvimento Web e Full Stack
 </p>
@@ -46,7 +46,7 @@ Desenvolvimento de uma página web utilizando HTML e CSS, com foco em:
 
 
 
-📂  **[Projeto Cordel](https://share.google/X385iP0ilQ3I0cnkr)**  
+📂  **[Projeto Cordel](https://ronaldoazevedo774-prog.github.io/projeto-cordel/desafio012.html)**  
 
 Desenvolvimento de uma página web utilizando HTML e CSS, com foco em:
 - Estrutura semântica
