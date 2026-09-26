@@ -152,4 +152,4 @@ Continuar desenvolvendo minha base em programação e desenvolvimento web, crian
 
 **Obrigado por visitar meu perfil!**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:42A5F5,50:1976D2,100:0D47A1&height=120&section=footer"
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:42A5F5,50:1976D2,100:0D47A1&height=120&section=footer" width="100%"/>
